@@ -1,7 +1,5 @@
 <h1 align="center">Alignment Collapse in Offline Cross-Dynamics Model-Based RL</h1>
 <p align="center"><b>A failure mode of inter-domain alignment, and a minimal stabilizer</b></p>
-<p align="center">Dong Uk Kim · Ji Su Yoon · Eui-Nam Huh · Choong Seon Hong<br>Kyung Hee University · NeurIPS 2026</p>
-<p align="center"><i>Paper: OpenReview link (coming soon)</i></p>
 
 <p align="center">
   <img src="assets/erank_collapse.gif" width="100%" alt="Animated: per-domain effective rank over 30 training epochs on Walker2d, Hopper, Ant and Humanoid. With BW-CORAL alignment the rank collapses to about 1 within a few epochs; with the trust region it stays at 3 to 5.">
